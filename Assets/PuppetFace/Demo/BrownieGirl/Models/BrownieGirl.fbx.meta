@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 3072d4ea822fd9d419d60d483e4f32a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bottomTeeth_JNT
+    100002: //RootNode
+    100004: effy_GRP
+    100006: Eye_BottomLid_Inner_L_JNT
+    100008: Eye_BottomLid_Inner_R_JNT
+    100010: Eye_BottomLid_L_JNT
+    100012: Eye_BottomLid_Middle_L_JNT
+    100014: Eye_BottomLid_Middle_R_JNT
+    100016: Eye_BottomLid_Outer_L_JNT
+    100018: Eye_BottomLid_Outer_R_JNT
+    100020: Eye_BottomLid_R_JNT
+    100022: Eye_Inner_Corner_L_JNT
+    100024: Eye_Inner_Corner_R
+    100026: Eye_L_JNT
+    100028: Eye_Outer_Corner_L_JNT
+    100030: Eye_Outer_Corner_R
+    100032: Eye_R_JNT
+    100034: Eye_TopLid_Inner_L_JNT
+    100036: Eye_TopLid_Inner_R_JNT
+    100038: Eye_TopLid_L_JNT
+    100040: Eye_TopLid_Middle_L_JNT
+    100042: Eye_TopLid_Middle_R_JNT
+    100044: Eye_TopLid_Outer_L_JNT
+    100046: Eye_TopLid_Outer_R_JNT
+    100048: Eye_TopLid_R_JNT
+    100050: eyeBallL_GEO
+    100052: eyeBallLR_GEO
+    100054: eyebrows_GEO
+    100056: EyeEnd_L_JNT
+    100058: EyeEnd_R_JNT
+    100060: eyeL_GRP
+    100062: eyelashes_GEO
+    100064: eyeLensL_GEO
+    100066: eyeLensR_GEO
+    100068: eyeR_GRP
+    100070: face_GEO
+    100072: hair1_JNT
+    100074: hair2_JNT
+    100076: hair3_JNT
+    100078: hair4_JNT
+    100080: hair5_JNT
+    100082: hair6
+    100084: hair_GEO
+    100086: head_JNT
+    100088: headTop_JNT
+    100090: jaw_JNT
+    100092: jawEnd
+    100094: lowerTeeth_GEO
+    100096: neck1_JNT
+    100098: neck2_JNT
+    100100: tongue_GEO
+    100102: tongue_JNT
+    100104: topTeeth_JNT
+    100106: upperTeeth_GEO
+    400000: bottomTeeth_JNT
+    400002: //RootNode
+    400004: effy_GRP
+    400006: Eye_BottomLid_Inner_L_JNT
+    400008: Eye_BottomLid_Inner_R_JNT
+    400010: Eye_BottomLid_L_JNT
+    400012: Eye_BottomLid_Middle_L_JNT
+    400014: Eye_BottomLid_Middle_R_JNT
+    400016: Eye_BottomLid_Outer_L_JNT
+    400018: Eye_BottomLid_Outer_R_JNT
+    400020: Eye_BottomLid_R_JNT
+    400022: Eye_Inner_Corner_L_JNT
+    400024: Eye_Inner_Corner_R
+    400026: Eye_L_JNT
+    400028: Eye_Outer_Corner_L_JNT
+    400030: Eye_Outer_Corner_R
+    400032: Eye_R_JNT
+    400034: Eye_TopLid_Inner_L_JNT
+    400036: Eye_TopLid_Inner_R_JNT
+    400038: Eye_TopLid_L_JNT
+    400040: Eye_TopLid_Middle_L_JNT
+    400042: Eye_TopLid_Middle_R_JNT
+    400044: Eye_TopLid_Outer_L_JNT
+    400046: Eye_TopLid_Outer_R_JNT
+    400048: Eye_TopLid_R_JNT
+    400050: eyeBallL_GEO
+    400052: eyeBallLR_GEO
+    400054: eyebrows_GEO
+    400056: EyeEnd_L_JNT
+    400058: EyeEnd_R_JNT
+    400060: eyeL_GRP
+    400062: eyelashes_GEO
+    400064: eyeLensL_GEO
+    400066: eyeLensR_GEO
+    400068: eyeR_GRP
+    400070: face_GEO
+    400072: hair1_JNT
+    400074: hair2_JNT
+    400076: hair3_JNT
+    400078: hair4_JNT
+    400080: hair5_JNT
+    400082: hair6
+    400084: hair_GEO
+    400086: head_JNT
+    400088: headTop_JNT
+    400090: jaw_JNT
+    400092: jawEnd
+    400094: lowerTeeth_GEO
+    400096: neck1_JNT
+    400098: neck2_JNT
+    400100: tongue_GEO
+    400102: tongue_JNT
+    400104: topTeeth_JNT
+    400106: upperTeeth_GEO
+    2100000: hair_MAT
+    2100002: effy_MAT
+    2100004: eyeLens_MAT
+    4300000: eyebrows_GEO
+    4300002: tongue_GEO
+    4300004: hair_GEO
+    4300006: face_GEO
+    4300008: upperTeeth_GEO
+    4300010: lowerTeeth_GEO
+    4300012: eyelashes_GEO
+    4300014: eyeLensL_GEO
+    4300016: eyeBallL_GEO
+    4300018: eyeLensR_GEO
+    4300020: eyeBallLR_GEO
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eyeBallL_GEO
+    13700002: eyeBallLR_GEO
+    13700004: eyebrows_GEO
+    13700006: eyelashes_GEO
+    13700008: eyeLensL_GEO
+    13700010: eyeLensR_GEO
+    13700012: face_GEO
+    13700014: hair_GEO
+    13700016: lowerTeeth_GEO
+    13700018: tongue_GEO
+    13700020: upperTeeth_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: effy_MAT
+    second: {fileID: 2100000, guid: a91d9de03aec4fe45be4e8546f4b7176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeLens_MAT
+    second: {fileID: 2100000, guid: 31bdb0be9814b704fa68fed2a5ecef81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair_MAT
+    second: {fileID: 2100000, guid: 91ec7d7fc7eaca34a8287438142a5d78, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

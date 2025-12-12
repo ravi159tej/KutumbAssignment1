@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: fade68b0940536d44858be1ce96b231a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_GEO
+    100002: eyeL
+    100004: eyeL_GEO
+    100006: eyeLidBottomL
+    100008: eyeLidTopL
+    100010: eyeR
+    100012: eyeR_GEO
+    100014: eyeRidBottomR
+    100016: eyeRidTopR
+    100018: face_GEO
+    100020: hair_GEO
+    100022: hat_GEO
+    100024: head_JNT
+    100026: jaw_JNT
+    100028: lipBottom_JNT
+    100030: lipL_JNT
+    100032: lipMiddleBottomL_JNT
+    100034: lipMiddleBottomR_JNT
+    100036: lipMiddleTopL_JNT
+    100038: lipMiddleTopR_JNT
+    100040: lipR_JNT
+    100042: lipTop_JNT
+    100044: mesh_GRP
+    100046: //RootNode
+    100048: spine
+    100050: teethBottom_GEO
+    100052: teethTop_GEO
+    100054: eyeLidBottomR
+    100056: eyeLidTopR
+    400000: body_GEO
+    400002: eyeL
+    400004: eyeL_GEO
+    400006: eyeLidBottomL
+    400008: eyeLidTopL
+    400010: eyeR
+    400012: eyeR_GEO
+    400014: eyeRidBottomR
+    400016: eyeRidTopR
+    400018: face_GEO
+    400020: hair_GEO
+    400022: hat_GEO
+    400024: head_JNT
+    400026: jaw_JNT
+    400028: lipBottom_JNT
+    400030: lipL_JNT
+    400032: lipMiddleBottomL_JNT
+    400034: lipMiddleBottomR_JNT
+    400036: lipMiddleTopL_JNT
+    400038: lipMiddleTopR_JNT
+    400040: lipR_JNT
+    400042: lipTop_JNT
+    400044: mesh_GRP
+    400046: //RootNode
+    400048: spine
+    400050: teethBottom_GEO
+    400052: teethTop_GEO
+    400054: eyeLidBottomR
+    400056: eyeLidTopR
+    2100000: blinn2
+    2100002: lambert9
+    2100004: blinn1
+    2100006: initialShadingGroup2
+    2100008: 03 - Default
+    2300000: teethBottom_GEO
+    2300002: teethTop_GEO
+    3300000: teethBottom_GEO
+    3300002: teethTop_GEO
+    4300000: eyeL_GEO
+    4300002: eyeR_GEO
+    4300004: body_GEO
+    4300006: hat_GEO
+    4300008: face_GEO
+    4300010: hair_GEO
+    4300012: teethTop_GEO
+    4300014: teethBottom_GEO
+    9500000: //RootNode
+    13700000: body_GEO
+    13700002: eyeL_GEO
+    13700004: eyeR_GEO
+    13700006: face_GEO
+    13700008: hair_GEO
+    13700010: hat_GEO
+    13700012: teethBottom_GEO
+    13700014: teethTop_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 3320a4a9ef1581740b895d85af1faf7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 272e16bfc467266459f29d5866755644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 9b710a5778d2d6043a4a24a48f176962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup2
+    second: {fileID: 2100000, guid: 82917f6a0e839594eb5ef6e5f97d7125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 62f95f6e8edeb9749b0df09ceace89a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 10
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

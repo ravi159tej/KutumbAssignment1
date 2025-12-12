@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhubarbResult>
+  <metadata>
+    <soundFile>D:\GIT\puppet2d\Assets/PuppetFace/Demo/Audio/Oldman_ThankYou.wav</soundFile>
+    <duration>3.98</duration>
+  </metadata>
+  <mouthCues>
+    <mouthCue start="0.00" end="0.04">X</mouthCue>
+    <mouthCue start="0.04" end="0.09">B</mouthCue>
+    <mouthCue start="0.09" end="0.21">C</mouthCue>
+    <mouthCue start="0.21" end="0.56">F</mouthCue>
+    <mouthCue start="0.56" end="0.63">G</mouthCue>
+    <mouthCue start="0.63" end="0.70">F</mouthCue>
+    <mouthCue start="0.70" end="0.78">A</mouthCue>
+    <mouthCue start="0.78" end="0.90">C</mouthCue>
+    <mouthCue start="0.90" end="1.39">B</mouthCue>
+    <mouthCue start="1.39" end="1.47">A</mouthCue>
+    <mouthCue start="1.47" end="1.57">D</mouthCue>
+    <mouthCue start="1.57" end="1.62">C</mouthCue>
+    <mouthCue start="1.62" end="1.69">A</mouthCue>
+    <mouthCue start="1.69" end="1.76">B</mouthCue>
+    <mouthCue start="1.76" end="1.82">A</mouthCue>
+    <mouthCue start="1.82" end="1.99">C</mouthCue>
+    <mouthCue start="1.99" end="2.41">B</mouthCue>
+    <mouthCue start="2.41" end="2.56">X</mouthCue>
+    <mouthCue start="2.56" end="2.61">B</mouthCue>
+    <mouthCue start="2.61" end="2.66">D</mouthCue>
+    <mouthCue start="2.66" end="2.80">B</mouthCue>
+    <mouthCue start="2.80" end="2.94">C</mouthCue>
+    <mouthCue start="2.94" end="3.08">E</mouthCue>
+    <mouthCue start="3.08" end="3.25">A</mouthCue>
+    <mouthCue start="3.25" end="3.34">F</mouthCue>
+    <mouthCue start="3.34" end="3.48">C</mouthCue>
+    <mouthCue start="3.48" end="3.97">B</mouthCue>
+    <mouthCue start="3.97" end="3.98">X</mouthCue>
+  </mouthCues>
+</rhubarbResult>

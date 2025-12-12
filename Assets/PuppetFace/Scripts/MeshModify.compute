@@ -1,0 +1,26 @@
+﻿// NewComputeShader.compute
+
+#pragma kernel MoveVertex
+
+struct Vertex
+{
+	float3 pos;
+	float3 prevPos;
+};
+struct Driver
+{
+	float3 pos;
+	float radius;
+};
+RWStructuredBuffer<Vertex> vertexBuffer;
+RWStructuredBuffer<Driver> driverBuffer;
+
+
+[numthreads(16,1,1)]
+void MoveVertex (uint3 id : SV_DispatchThreadID)
+{
+	float dist =saturate( 1-driverBuffer[0].radius*distance(vertexBuffer[id.x].prevPos, driverBuffer[0].pos));
+	vertexBuffer[id.x].pos =vertexBuffer[id.x].prevPos +  dist*(driverBuffer[1].pos-driverBuffer[0].pos);
+
+}
+
